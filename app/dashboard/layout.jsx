@@ -1,6 +1,6 @@
 import Navbar from "../ui/dashboard/navbar/Navbar";
 import Sidebar from "../ui/dashboard/sidebar/Sidebar";
-import styles from "../ui/dashboard/dashboard.module.css";
+import styles from "../ui/dashboard/Dashboard.module.css";
 
 const layout = ({ children }) => {
   return (
